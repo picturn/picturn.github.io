@@ -640,6 +640,10 @@ blockquote span{
     .sec-one-left{
         height: 100%;
     }
+    .section-two h2{
+        text-align: center;
+        font-size: 25px;
+    }
 
     /* section four */
     .blog-wrapper-lg{
