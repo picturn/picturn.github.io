@@ -711,10 +711,10 @@ blockquote span{
         padding-right: 8px;
     }
     h2{
-        font-size: 22px!important;
+        font-size: 25px!important;
     }
     h3{
-        font-size: 16px!important;
+        font-size: 20px!important;
     }
     p{
         font-size: 15px;
@@ -728,3 +728,17 @@ blockquote span{
         grid-row-gap: 20px;
     }
 }
+
+/*************** back to top button ******************/
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    border-radius: 100%;
+    padding: 8px;
+    background-color: white;
+    cursor: pointer;
+  }
+  
